@@ -1,7 +1,7 @@
-# clickert
+# Clickert
 Çeşitli link kısaltma sitelerinin tıklama bot'u . [http-https | socks4 | socks5]
-
-K U L L A N I M : 
+----------------------------------------------
+#Kullanım : 
 
 
 İşletim sisteminize uygun Python3'ü kurduktan sonra (pip paket yöneteciside gerekli) sisteminze uygun chromedriver'ı aynı klasöre atarak başlatabilirsiniz .
@@ -13,7 +13,7 @@ Linux :
 Windows :
 
     clickert.py 'ye çift tık (python3 launcher ile başlatacak)
-    
+---------------------------------------    
 Gereklilikler [herşey doğru giderse kendisi yüklenecektir] :
 
    Linux:
@@ -43,7 +43,7 @@ ile çalıştırın ..
 
 ------------------------------------
 
-H A N G İ S İ N İ  A Ç M A L I Y I M
+#Hangisini Açmalıyım :
 
     clickert.py'yi açarak http\https proxyler kullanacak ve listeniz proxy.txt olacaktır
     
@@ -52,11 +52,10 @@ H A N G İ S İ N İ  A Ç M A L I Y I M
     clickert_socks5.py'yi açarak socks5 proxyler kullancak ve listeniz socks5.txt olacaktır
 Bunlar ne bilmiyorsan clickert.py'yi kullanabilirsin .
 
+------------------------------------
 
-*Powered by raif.py*
-
-
-    
- --------------------------------
  Sorumluluk kabul edilmeyecektir !
+ 
+ 
+ *Powered by raif.py*
  
