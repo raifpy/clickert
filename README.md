@@ -27,9 +27,10 @@ Gereklilikler [herşey doğru giderse kendisi yüklenecektir] :
 
 Alabileceğiniz olası hatalar :
 
-    chromedriver doğru yapılandırılmamış . indirip bu konuma atın [konum]
-    == işletim sisteminize ve chrome sürümüne uygun chromedriver'ı buradan yükleyin https://chromedriver.chromium.org/
-    == zip'den çıkartıp clickert.py'nin olduğu yere kopyalayın içeriğini
+   Chromedriver doğru yapılandırılmamış . indirip bu konuma atın [konum]:
+   
+    işletim sisteminize ve chrome sürümüne uygun chromedriver'ı buradan yükleyin https://chromedriver.chromium.org/
+    zip'den çıkartıp clickert.py'nin olduğu yere kopyalayın içeriğini
     
     
     
