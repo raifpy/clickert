@@ -5,7 +5,7 @@ Kullanım :
 ----------
 
 
-İşletim sisteminize uygun Python3'ü kurduktan sonra (pip paket yöneteciside gerekli) sisteminze uygun chromedriver'ı aynı klasöre atarak başlatabilirsiniz .
+İşletim sisteminize Python3 'u ve "pip paket yöneticisini" kurduktan sonra başlatabilirsiniz 
 
 Linux :
 
