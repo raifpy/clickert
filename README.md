@@ -40,9 +40,21 @@ Kendi listesinizi kullancaksanız ; [manuel liste ile devam edecekseniz]
     python clickert.py -indirme_yapma
 ile çalıştırın ..
 
+------------------------------------
+
+H A N G İ S İ N İ  A Ç M A L I Y I M
+
+    clickert.py'yi açarak http\https proxyler kullanacak ve listeniz proxy.txt olacaktır
+    
+    clickert_socks4.py'yi açarak socks4 proxyler kullanacak ve listeniz socks4.txt olacaktır
+    
+    clickert_socks5.py'yi açarak socks5 proxyler kullancak ve listeniz socks5.txt olacaktır
+Bunlar ne bilmiyorsan clickert.py'yi kullanabilirsin .
 
 
-Powered by *raif.py*
+*Powered by raif.py*
+
+
     
  --------------------------------
  Sorumluluk kabul edilmeyecektir !
