@@ -42,7 +42,7 @@ ile çalıştırın ..
 
 
 
-Powered by [raif.py]
+Powered by *raif.py*
     
  --------------------------------
  Sorumluluk kabul edilmeyecektir !
