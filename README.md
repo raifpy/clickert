@@ -37,7 +37,10 @@ Alabileceğiniz olası hatalar :
 Çalıştığı süre boyunca belli sürelerde proxy güncellemesi yapacaktır .
 Kendi listesinizi kullancaksanız ; [manuel liste ile devam edecekseniz]
 
-    python clickert.py -indirme_yapma parametresi işinize yarayacaktır
+    python clickert.py -indirme_yapma
+ile çalıştırın ..
+
+
 
 Powered by:
 
