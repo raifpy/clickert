@@ -1,7 +1,8 @@
 # Clickert
 Çeşitli link kısaltma sitelerinin tıklama bot'u . [http-https | socks4 | socks5]
 ----------------------------------------------
-#Kullanım : 
+Kullanım : 
+----------
 
 
 İşletim sisteminize uygun Python3'ü kurduktan sonra (pip paket yöneteciside gerekli) sisteminze uygun chromedriver'ı aynı klasöre atarak başlatabilirsiniz .
@@ -25,6 +26,7 @@ Gereklilikler [herşey doğru giderse kendisi yüklenecektir] :
         selenium
         win10soup
 
+-------------------------------------
 Alabileceğiniz olası hatalar :
 
    Chromedriver doğru yapılandırılmamış . indirip bu konuma atın [konum]:
@@ -34,7 +36,7 @@ Alabileceğiniz olası hatalar :
     
     
     
-
+----------------------------------------
 Çalıştığı süre boyunca belli sürelerde proxy güncellemesi yapacaktır .
 Kendi listesinizi kullancaksanız ; [manuel liste ile devam edecekseniz]
 
@@ -42,9 +44,8 @@ Kendi listesinizi kullancaksanız ; [manuel liste ile devam edecekseniz]
 ile çalıştırın ..
 
 ------------------------------------
-
-#Hangisini Açmalıyım :
-
+Hangisini Açmalıyım :
+----
     clickert.py'yi açarak http\https proxyler kullanacak ve listeniz proxy.txt olacaktır
     
     clickert_socks4.py'yi açarak socks4 proxyler kullanacak ve listeniz socks4.txt olacaktır
