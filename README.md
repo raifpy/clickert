@@ -1,6 +1,11 @@
 # Clickert
 Çeşitli link kısaltma sitelerinin tıklama bot'u . [http-https | socks4 | socks5]
 ----------------------------------------------
+Windows için .exe indirmek için :
+
+    https://github.com/raif-py/clickert.exe
+
+
 Kullanım : 
 ----------
 
