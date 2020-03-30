@@ -10,6 +10,11 @@ import platform
 import threading
 import urllib
 import urllib.request as req
+try:
+    import colorama
+except:
+    sys.exit(input("colorama kurulur değil !"))
+colorama.init()
 ####
 isim = os.getlogin()
 platform = platform.system()
